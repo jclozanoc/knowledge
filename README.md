@@ -1,15 +1,18 @@
-# [My Knowledge Wiki] 🌿(https://future.link.here)
+---
+description: "\U0001F33F"
+---
+
+# My Knowledge Wiki
 
 This is my personal work in progress wiki where I share everything I know about this world in form of an online GitBook hosted on [GitHub](https://github.com/jclozanoc/knowledge).
 
-If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals.
+If this is your first time visiting this wiki, take a look [here](https://github.com/jclozanoc/knowledge/tree/ea5651e2eaf477ea255e9614e62485b419dd15a0/meta/meta.md) as it describes this wiki, its structure and goals.
 
 Below will be [notes](https://github.com/jclozanoc/knowledge/blob/master/SUMMARY.md) & their relations visualized.
 
+This wiki is not yet large. 0 lines of markdown large \(calculated with [loc](https://github.com/cgag/loc/)\)
 
-This wiki is not yet large. 0 lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
-
-```
+```text
 ~/Dropbox/Write/knowledge
 ❯ loc
 --------------------------------------------------------------------------------
@@ -41,3 +44,4 @@ I'd love to hear any [ideas you have](https://github.com/jclozanoc/knowledge/iss
 You can support me on [GitHub](https://github.com/sponsors/jclozanoc).
 
 [![CC4](https://img.shields.io/github/license/jclozanoc/knowledge?style=plastic)](https://github.com/jclozanoc/knowledge/blob/master/LICENSE)
+
