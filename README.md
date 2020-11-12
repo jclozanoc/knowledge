@@ -1,25 +1,43 @@
-# Readme
+# [My Knowledge Wiki] 🌿(https://future.link.here)
 
-## Getting Super Powers
+This is my personal work in progress wiki where I share everything I know about this world in form of an online GitBook hosted on [GitHub](https://github.com/jclozanoc/knowledge).
 
-Becoming a super hero is a fairly straight forward process:
+If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals.
+
+Below will be [notes](https://github.com/jclozanoc/knowledge/blob/master/SUMMARY.md) & their relations visualized.
+
+
+This wiki is not yet large. 0 lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
 
 ```
-$ give me super-powers
+~/Dropbox/Write/knowledge
+❯ loc
+--------------------------------------------------------------------------------
+ Language             Files        Lines        Blank      Comment         Code
+--------------------------------------------------------------------------------
+ Markdown               4          0            0          0               0
 ```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## Using the wiki well
 
-Once you're strong enough, save the world:
+You can quickly search the contents of this wiki above or you can explore the tree view to the left.
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+You can access any note from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
+## Grow your own digital garden 🌱
 
+Such wikis are also called [digital gardens](https://joelhooks.com/digital-garden). There is a [DigitalGardens community on Reddit](https://www.reddit.com/r/DigitalGardens/) which discusses tools to maintain & create these wikis. As well as how to use them to develop [new transformative tools for thought](https://numinous.productions/ttft/).
 
+Don't be afraid to create one of your own and share what you know with the world.
+
+## Contributing
+
+If you found a mistake anywhere, I would appreciate your help. GitBook provides a quick way to open GitHub page for any entry so you can make changes and submit a PR.
+
+I'd love to hear any [ideas you have](https://github.com/jclozanoc/knowledge/issues/new) on how I can improve this wiki.
+
+## Thank you
+
+You can support me on [GitHub](https://github.com/sponsors/jclozanoc).
+
+[![CC4](https://img.shields.io/github/license/jclozanoc/knowledge?style=plastic)](https://github.com/jclozanoc/knowledge/blob/master/LICENSE)
