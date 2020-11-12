@@ -2,7 +2,7 @@
 
 This is my personal work in progress wiki where I share everything I know about this world in form of an online GitBook hosted on [GitHub](https://github.com/jclozanoc/knowledge).
 
-If this is your first time visiting this wiki, take a look [here](https://github.com/jclozanoc/knowledge/meta/meta.md) as it describes this wiki, its structure and goals.
+If this is your first time visiting this wiki, take a look [here](./meta/meta.md) as it describes this wiki, its structure and goals.
 
 Below will be [notes](https://github.com/jclozanoc/knowledge/blob/master/SUMMARY.md) & their relations visualized.
 
