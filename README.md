@@ -26,7 +26,6 @@ I'd love to hear any [ideas you have](https://github.com/jclozanoc/knowledge/iss
 
 ## Thank you
 
-You can support me on [GitHub](https://github.com/sponsors/jclozanoc).
-
-[![CC4](https://img.shields.io/github/license/jclozanoc/knowledge?style=plastic)](https://github.com/jclozanoc/knowledge/blob/master/LICENSE)
-
+[![MIT](https://img.shields.io/github/license/jclozanoc/knowledge?style=plastic)](https://github.com/jclozanoc/knowledge/blob/master/LICENSE)
+ You can support me on [GitHub](https://github.com/sponsors/jclozanoc).
+ 
