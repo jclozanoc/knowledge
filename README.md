@@ -6,17 +6,6 @@ If this is your first time visiting this wiki, take a look [here](https://github
 
 Below will be [notes](https://github.com/jclozanoc/knowledge/blob/master/SUMMARY.md) & their relations visualized.
 
-This wiki is not yet large. 0 lines of markdown large \(calculated with [loc](https://github.com/cgag/loc/)\)
-
-```text
-~/Dropbox/Write/knowledge
-❯ loc
---------------------------------------------------------------------------------
- Language             Files        Lines        Blank      Comment         Code
---------------------------------------------------------------------------------
- Markdown               4          0            0          0               0
-```
-
 ## Using the wiki well
 
 You can quickly search the contents of this wiki above or you can explore the tree view to the left.
