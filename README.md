@@ -1,7 +1,3 @@
----
-description: "\U0001F33F"
----
-
 # My Knowledge Wiki
 
 This is my personal work in progress wiki where I share everything I know about this world in form of an online GitBook hosted on [GitHub](https://github.com/jclozanoc/knowledge).
